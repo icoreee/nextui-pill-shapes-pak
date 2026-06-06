@@ -1,0 +1,18 @@
+.DS_Store
+*.log
+*.tmp
+
+# Local agent/development notes and scratch assets
+AGENTS.md
+new shapes/
+.local/
+*.local.sh
+upload*.sh
+deploy*.sh
+
+*.pak/
+build-ui/
+dist/
+
+__pycache__/
+*.pyc

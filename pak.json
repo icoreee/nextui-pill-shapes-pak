@@ -1,0 +1,16 @@
+{
+  "name": "Shaper",
+  "version": "v1.0.0",
+  "type": "TOOL",
+  "description": "Choose custom left and right pill caps for NextUI assets.",
+  "author": "icore",
+  "repo_url": "https://github.com/icoreee/nextui-shaper-pak",
+  "release_filename": "Shaper.pak.zip",
+  "launch": "launch.sh",
+  "platforms": [
+    "tg5040"
+  ],
+  "update_ignore": [
+    "caps/"
+  ]
+}
