@@ -12,5 +12,12 @@
   ],
   "update_ignore": [
     "caps/"
+  ],
+  "screenshots": [
+    "screenshots/Preview1.png",
+    "screenshots/Preview2.png",
+    "screenshots/Preview3.png",
+    "screenshots/Preview4.png",
+    "screenshots/Preview5.png"
   ]
 }
